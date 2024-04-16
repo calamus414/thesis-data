@@ -1,9 +1,0 @@
-number,family,科名,latin,chinese,abbreviation,frequency,shadeindex,shademean,shademedian,shadevar,highlight,shademeancrown,surratemasd,surratemasdirondele,surratemdele,modes
-1,Arecaceae,棕櫚科,Calamus formosanus,黃藤,cafo,34,2.5,5.28,4.75,11.91,8.35,1.62,0.941176471,0.94,0.97,SH
-2,Hydrangeaceae,八仙花科,Hydrangea viburnoides,青棉花,hyvi,25,3,6.92,7,16.12,10.5,1.8,0.68,0.78,0.77,AAR
-3,Vitaceae,葡萄科,Tetrastigma bioritsense,三腳虌草,tebi,42,2.5,8.75,6.75,35.69,17.8,1.86,0.547619048,0.59,0.74,TT
-4,Smilacaceae,菝?科,Smilax lanceifolia,臺灣土茯苓,smla,29,3.4,7.78,6.5,21.37,15.2,1.93,0.586206897,0.62,0.65,TT
-5,Menispermaceae,防己科,Pericampylus formosanus,蓬萊藤,pefo,15,5.2,11.87,11.5,37.59,21.1,2.33,0.533333333,0.73,0.67,TS
-6,Gesneriaceae,苦苣苔科,Aeschynanthus acuminatus,長果藤,aeac,20,2.5,6.68,6.5,11.88,10.25,1.93,0.9,0.92,0.95,AAR
-7,Piperaceae,胡椒科,Piper sintenense,薄葉風藤,pisi,14,2.5,6.57,4.75,23.19,11.05,1.79,0.857142857,0.9,0.92,AAR
-8,Rubiaceae,茜草科,Psychotria serpens,拎壁龍,psse,14,2.65,5.5,4.25,11.31,9.6,1.46,0.928571429,0.91,0.93,AAR
